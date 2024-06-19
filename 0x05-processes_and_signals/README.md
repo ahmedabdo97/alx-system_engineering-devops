@@ -1,2 +1,1 @@
-# The ALX Project solution to Processes and signals.
------------
+This is readme file
